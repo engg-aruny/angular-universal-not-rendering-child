@@ -1,4 +1,4 @@
-# AngularUniversalWithAngular15
+# This is sample application that default Angular will not enable SSR, it default using CSR (Client Side Rendering)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
 
